@@ -71,7 +71,6 @@ namespace InMemoryEntityFrameWorkWebApi
             };
 
             context.Posts.Add(testPost1);
-
             context.SaveChanges();
         }
     }
