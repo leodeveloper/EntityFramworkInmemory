@@ -1,0 +1,2 @@
+# EntityFramworkInmemory
+One of the most exciting features in the new version of Entity Framework (Entity Framework Core 1.0) is the addition of an in-memory data provider. This makes it possible to prototype applications and write tests without having to set up a local or external database. When you’re ready to switch to using a real database, you can simply swap in your actual provider.  In this tutorial, I’ll show you how to set up the Entity Framework Core InMemory provider and use it to prototype a simple ASP.NET Core API
